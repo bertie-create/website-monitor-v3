@@ -401,18 +401,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-1360454-5686975.cloudwaysapps.com.ico",
     "slug": "cloudways-app-1360454",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-12": 416
+      "2026-08-12": 464
     }
   },
   {
@@ -420,19 +420,19 @@
     "url": "https://tusktshirtsnamibia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tusktshirtsnamibia.com.ico",
     "slug": "tusk-t-shirts-namibia",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1857,
-    "timeDay": 1857,
-    "timeWeek": 1857,
-    "timeMonth": 1857,
-    "timeYear": 1857,
+    "status": "up",
+    "uptime": "89.65%",
+    "uptimeDay": "89.65%",
+    "uptimeWeek": "89.65%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "89.65%",
+    "time": 2093,
+    "timeDay": 2093,
+    "timeWeek": 2093,
+    "timeMonth": 2093,
+    "timeYear": 2093,
     "dailyMinutesDown": {
-      "2026-08-12": 1
+      "2026-08-12": 48
     }
   },
   {
@@ -531,18 +531,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.trainyard.co.za.ico",
     "slug": "trainyard",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 1282,
     "timeDay": 1282,
     "timeWeek": 1282,
     "timeMonth": 1282,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2026-08-12": 415
+      "2026-08-12": 463
     }
   },
   {
@@ -551,18 +551,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trainyardmodels.com.ico",
     "slug": "trainyard-models",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 2292,
     "timeDay": 2292,
     "timeWeek": 2292,
     "timeMonth": 2292,
     "timeYear": 2292,
     "dailyMinutesDown": {
-      "2026-08-12": 415
+      "2026-08-12": 463
     }
   },
   {
