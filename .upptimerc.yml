@@ -12,8 +12,6 @@ sites:
     url: https://bumptobabe.co.za/
   - name: Chabo AI
     url: https://chabo.ai/
-  - name: Draft Africa
-    url: https://draft.africa/
   - name: Finance Fusion
     url: https://financefusion.com/
   - name: Just Cruizin Namibia
@@ -48,8 +46,6 @@ sites:
     url: https://truenorthgroup.ai/
   - name: Three Sixty
     url: https://threesixty.me/
-  - name: Topwatch
-    url: https://topwatch.com/
   - name: Cloudways App 1360454
     url: https://wordpress-1360454-5686975.cloudwaysapps.com/
   - name: Tusk T-Shirts Namibia
@@ -75,14 +71,15 @@ sites:
 status-website:
   # No custom domain yet, so we use baseUrl with the repo name instead of cname
   baseUrl: /website-monitor-v3
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://niftystudio.co.za/wp-content/uploads/2024/04/logo-dark.png
   name: Nifty Studio Site Monitor
-  introTitle: "**Nifty Studio** website status monitor, powered by Upptime."
-  introMessage: Live status for Nifty Studio client sites, checked automatically every few minutes.
+  theme: light
+  introTitle: "**Nifty Studio** — Live Site Status"
+  introMessage: Real-time status for all Nifty Studio client sites, checked automatically every few minutes. Click any site name below to visit it directly.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Nifty Studio
+      href: https://niftystudio.co.za/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
