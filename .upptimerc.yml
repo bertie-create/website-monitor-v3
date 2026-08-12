@@ -1,31 +1,88 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: bertie-create # Your GitHub organization or username, where this repository lives
+repo: website-monitor-v3 # The name of this repository
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: Advisory
+    url: https://advisory.co.za/
+  - name: Biorevolution
+    url: https://www.biorevolution.co.za/
+  - name: Crop Biolife
+    url: https://cropbiolife.co.za/
+  - name: Bump to Babe
+    url: https://bumptobabe.co.za/
+  - name: Chabo AI
+    url: https://chabo.ai/
+  - name: Draft Africa
+    url: https://draft.africa/
+  - name: Finance Fusion
+    url: https://financefusion.com/
+  - name: Just Cruizin Namibia
+    url: https://justcruizinnamibia.com/
+  - name: Lekker Digital
+    url: https://lekkerdigital.com.na/
+  - name: Linkup Youth
+    url: https://linkupyouth.co.za/
+  - name: Moi Magnets
+    url: https://moimagnets.co.za/
+  - name: Nifty Studio
+    url: https://niftystudio.co.za/
+  - name: Paarl Physios
+    url: https://paarlphysios.com/
+  - name: Wellington Physios
+    url: https://wellingtonphysios.co.za/
+  - name: Kuilsriver Physios
+    url: https://kuilsriverphysios.co.za/
+  - name: Qubesure
+    url: https://qubesure.co.za/
+  - name: Re-Solve
+    url: https://www.re-solve.co.za/
+  - name: Seizmic AI
+    url: https://seizmic.ai/
+  - name: Siyafunda EF
+    url: https://www.siyafundaef.org.za/
+  - name: Solar Project
+    url: https://solarproject.co.za/
+  - name: Symbyte
+    url: https://symbyte.tech/
+  - name: True North Group
+    url: https://truenorthgroup.ai/
+  - name: Three Sixty
+    url: https://threesixty.me/
+  - name: Topwatch
+    url: https://topwatch.com/
+  - name: Cloudways App 1360454
+    url: https://wordpress-1360454-5686975.cloudwaysapps.com/
+  - name: Tusk T-Shirts Namibia
+    url: https://tusktshirtsnamibia.com/
+  - name: VHT Law
+    url: https://vhtlaw.co.za/
+  - name: Velden Botanicals
+    url: https://veldenbotanicals.com/
+  - name: Exo Golf ZA
+    url: https://za.exo-golf.com/
+  - name: Tadi Bush Lodge
+    url: https://tadibushlodge.co.za/
+  - name: Atrax Logistics
+    url: https://atraxlogistics.co.za/
+  - name: Trainyard
+    url: https://www.trainyard.co.za/
+  - name: Trainyard Models
+    url: https://trainyardmodels.com/
+  - name: Prosum AI
+    url: https://prosum.ai/
+  - name: Element 5
+    url: https://element-5.com/
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # No custom domain yet, so we use baseUrl with the repo name instead of cname
+  baseUrl: /website-monitor-v3
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Nifty Studio Site Monitor
+  introTitle: "**Nifty Studio** website status monitor, powered by Upptime."
+  introMessage: Live status for Nifty Studio client sites, checked automatically every few minutes.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
