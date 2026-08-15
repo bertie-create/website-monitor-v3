@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/moimagnets.co.za.ico",
     "slug": "moi-magnets",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 2621,
     "timeDay": 2158,
     "timeWeek": 2621,
@@ -330,18 +330,20 @@
     "url": "https://solarproject.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/solarproject.co.za.ico",
     "slug": "solar-project",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1041,
     "timeDay": 758,
     "timeWeek": 1041,
     "timeMonth": 1041,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-15": 6
+    }
   },
   {
     "name": "Symbyte",
@@ -414,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 99,
+      "2026-08-15": 490,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 964
@@ -426,11 +428,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tusktshirtsnamibia.com.ico",
     "slug": "tusk-t-shirts-namibia",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "96.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "95.77%",
-    "uptimeYear": "95.77%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "96.15%",
     "time": 2205,
     "timeDay": 2016,
     "timeWeek": 2205,
@@ -445,18 +447,20 @@
     "url": "https://vhtlaw.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/vhtlaw.co.za.ico",
     "slug": "vht-law",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1231,
     "timeDay": 1101,
     "timeWeek": 1231,
     "timeMonth": 1231,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-15": 1
+    }
   },
   {
     "name": "Velden Botanicals",
@@ -547,7 +551,7 @@
     "timeMonth": 1098,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2026-08-15": 99,
+      "2026-08-15": 490,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 963
@@ -570,7 +574,7 @@
     "timeMonth": 2068,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2026-08-15": 99,
+      "2026-08-15": 490,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 963
