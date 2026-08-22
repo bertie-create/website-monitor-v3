@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkupyouth.co.za.ico",
     "slug": "linkup-youth",
     "status": "down",
-    "uptime": "80.59%",
+    "uptime": "80.52%",
     "uptimeDay": "9.06%",
-    "uptimeWeek": "71.39%",
-    "uptimeMonth": "80.59%",
-    "uptimeYear": "80.59%",
+    "uptimeWeek": "71.27%",
+    "uptimeMonth": "80.52%",
+    "uptimeYear": "80.52%",
     "time": 3169,
     "timeDay": 1355,
     "timeWeek": 2497,
@@ -166,7 +166,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 696,
       "2026-08-21": 1366,
-      "2026-08-22": 823
+      "2026-08-22": 836
     }
   },
   {
@@ -408,11 +408,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/threesixty.me.ico",
     "slug": "three-sixty",
     "status": "down",
-    "uptime": "77.45%",
+    "uptime": "77.38%",
     "uptimeDay": "9.26%",
-    "uptimeWeek": "66.76%",
-    "uptimeMonth": "77.45%",
-    "uptimeYear": "77.45%",
+    "uptimeWeek": "66.64%",
+    "uptimeMonth": "77.38%",
+    "uptimeYear": "77.38%",
     "time": 2227,
     "timeDay": 2243,
     "timeWeek": 2153,
@@ -421,7 +421,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 1166,
       "2026-08-21": 1363,
-      "2026-08-22": 819
+      "2026-08-22": 832
     }
   },
   {
@@ -441,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 931,
+      "2026-08-22": 943,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -459,20 +459,20 @@
     "url": "https://tusktshirtsnamibia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tusktshirtsnamibia.com.ico",
     "slug": "tusk-t-shirts-namibia",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 2263,
-    "timeDay": 2292,
-    "timeWeek": 2320,
-    "timeMonth": 2263,
-    "timeYear": 2263,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
+    "time": 2249,
+    "timeDay": 2176,
+    "timeWeek": 2288,
+    "timeMonth": 2249,
+    "timeYear": 2249,
     "dailyMinutesDown": {
       "2026-08-12": 167,
-      "2026-08-22": 1
+      "2026-08-22": 13
     }
   },
   {
@@ -582,7 +582,7 @@
     "timeMonth": 1104,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2026-08-22": 931,
+      "2026-08-22": 943,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -612,7 +612,7 @@
     "timeMonth": 2220,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2026-08-22": 931,
+      "2026-08-22": 943,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
