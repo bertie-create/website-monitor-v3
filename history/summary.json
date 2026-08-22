@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkupyouth.co.za.ico",
     "slug": "linkup-youth",
     "status": "down",
-    "uptime": "81.24%",
+    "uptime": "80.59%",
     "uptimeDay": "9.06%",
-    "uptimeWeek": "72.58%",
-    "uptimeMonth": "81.24%",
-    "uptimeYear": "81.24%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "80.59%",
+    "uptimeYear": "80.59%",
     "time": 3169,
     "timeDay": 1355,
     "timeWeek": 2497,
@@ -166,7 +166,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 696,
       "2026-08-21": 1366,
-      "2026-08-22": 704
+      "2026-08-22": 823
     }
   },
   {
@@ -218,11 +218,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paarlphysios.com.ico",
     "slug": "paarl-physios",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "93.56%",
     "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 4990,
     "timeDay": 5033,
     "timeWeek": 5312,
@@ -350,11 +350,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/solarproject.co.za.ico",
     "slug": "solar-project",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1169,
     "timeDay": 1055,
     "timeWeek": 1271,
@@ -408,11 +408,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/threesixty.me.ico",
     "slug": "three-sixty",
     "status": "down",
-    "uptime": "78.08%",
+    "uptime": "77.45%",
     "uptimeDay": "9.26%",
-    "uptimeWeek": "67.95%",
-    "uptimeMonth": "78.08%",
-    "uptimeYear": "78.08%",
+    "uptimeWeek": "66.76%",
+    "uptimeMonth": "77.45%",
+    "uptimeYear": "77.45%",
     "time": 2227,
     "timeDay": 2243,
     "timeWeek": 2153,
@@ -421,7 +421,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 1166,
       "2026-08-21": 1363,
-      "2026-08-22": 700
+      "2026-08-22": 819
     }
   },
   {
@@ -441,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 811,
+      "2026-08-22": 931,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -459,10 +459,10 @@
     "url": "https://tusktshirtsnamibia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tusktshirtsnamibia.com.ico",
     "slug": "tusk-t-shirts-namibia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.87%",
     "time": 2263,
@@ -471,7 +471,8 @@
     "timeMonth": 2263,
     "timeYear": 2263,
     "dailyMinutesDown": {
-      "2026-08-12": 167
+      "2026-08-12": 167,
+      "2026-08-22": 1
     }
   },
   {
@@ -581,7 +582,7 @@
     "timeMonth": 1104,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2026-08-22": 811,
+      "2026-08-22": 931,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -611,7 +612,7 @@
     "timeMonth": 2220,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2026-08-22": 811,
+      "2026-08-22": 931,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
