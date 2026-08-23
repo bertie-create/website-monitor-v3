@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkupyouth.co.za.ico",
     "slug": "linkup-youth",
     "status": "down",
-    "uptime": "74.50%",
+    "uptime": "74.37%",
     "uptimeDay": "5.69%",
-    "uptimeWeek": "59.07%",
-    "uptimeMonth": "74.50%",
-    "uptimeYear": "74.50%",
+    "uptimeWeek": "58.79%",
+    "uptimeMonth": "74.37%",
+    "uptimeYear": "74.37%",
     "time": 2840,
     "timeDay": 1729,
     "timeWeek": 2147,
@@ -167,7 +167,7 @@
       "2026-08-20": 696,
       "2026-08-21": 1366,
       "2026-08-22": 1273,
-      "2026-08-23": 793
+      "2026-08-23": 821
     }
   },
   {
@@ -175,12 +175,12 @@
     "url": "https://moimagnets.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/moimagnets.co.za.ico",
     "slug": "moi-magnets",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 2515,
     "timeDay": 2202,
     "timeWeek": 2411,
@@ -190,7 +190,8 @@
       "2026-08-12": 46,
       "2026-08-20": 37,
       "2026-08-22": 34,
-      "2026-08-21": 20
+      "2026-08-21": 20,
+      "2026-08-23": 2
     }
   },
   {
@@ -292,22 +293,22 @@
     "url": "https://www.re-solve.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/www.re-solve.co.za.ico",
     "slug": "re-solve",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 2162,
-    "timeDay": 2158,
-    "timeWeek": 2108,
-    "timeMonth": 2162,
-    "timeYear": 2162,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 2144,
+    "timeDay": 2038,
+    "timeWeek": 2082,
+    "timeMonth": 2144,
+    "timeYear": 2144,
     "dailyMinutesDown": {
       "2026-08-15": 22,
       "2026-08-19": 40,
       "2026-08-20": 33,
-      "2026-08-23": 2
+      "2026-08-23": 28
     }
   },
   {
@@ -410,11 +411,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/threesixty.me.ico",
     "slug": "three-sixty",
     "status": "down",
-    "uptime": "71.63%",
+    "uptime": "71.50%",
     "uptimeDay": "5.86%",
-    "uptimeWeek": "54.46%",
-    "uptimeMonth": "71.63%",
-    "uptimeYear": "71.63%",
+    "uptimeWeek": "54.18%",
+    "uptimeMonth": "71.50%",
+    "uptimeYear": "71.50%",
     "time": 2215,
     "timeDay": 2166,
     "timeWeek": 2169,
@@ -424,7 +425,7 @@
       "2026-08-20": 1166,
       "2026-08-21": 1363,
       "2026-08-22": 1267,
-      "2026-08-23": 792
+      "2026-08-23": 820
     }
   },
   {
@@ -444,7 +445,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 815,
+      "2026-08-23": 843,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -585,7 +586,7 @@
     "timeMonth": 1102,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2026-08-23": 815,
+      "2026-08-23": 843,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -616,7 +617,7 @@
     "timeMonth": 2192,
     "timeYear": 2192,
     "dailyMinutesDown": {
-      "2026-08-23": 815,
+      "2026-08-23": 843,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
