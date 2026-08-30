@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkupyouth.co.za.ico",
     "slug": "linkup-youth",
     "status": "down",
-    "uptime": "51.12%",
+    "uptime": "50.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "11.20%",
-    "uptimeMonth": "51.12%",
-    "uptimeYear": "51.12%",
+    "uptimeMonth": "50.82%",
+    "uptimeYear": "50.82%",
     "time": 2369,
     "timeDay": 1192,
     "timeWeek": 1485,
@@ -174,7 +174,7 @@
       "2026-08-28": 838,
       "2026-08-27": 1382,
       "2026-08-29": 1240,
-      "2026-08-30": 298
+      "2026-08-30": 453
     }
   },
   {
@@ -419,11 +419,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/threesixty.me.ico",
     "slug": "three-sixty",
     "status": "up",
-    "uptime": "71.60%",
+    "uptime": "71.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.12%",
-    "uptimeMonth": "71.60%",
-    "uptimeYear": "71.60%",
+    "uptimeWeek": "69.66%",
+    "uptimeMonth": "71.77%",
+    "uptimeYear": "71.77%",
     "time": 2202,
     "timeDay": 1909,
     "timeWeek": 2168,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-30": 298,
+      "2026-08-30": 453,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -481,12 +481,12 @@
     "url": "https://tusktshirtsnamibia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tusktshirtsnamibia.com.ico",
     "slug": "tusk-t-shirts-namibia",
-    "status": "up",
-    "uptime": "96.38%",
-    "uptimeDay": "83.00%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "96.38%",
+    "status": "down",
+    "uptime": "96.40%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.40%",
     "time": 2137,
     "timeDay": 2119,
     "timeWeek": 2074,
@@ -498,7 +498,8 @@
       "2026-08-25": 31,
       "2026-08-28": 273,
       "2026-08-27": 186,
-      "2026-08-29": 245
+      "2026-08-29": 245,
+      "2026-08-30": 1
     }
   },
   {
@@ -610,7 +611,7 @@
     "timeMonth": 1051,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2026-08-30": 299,
+      "2026-08-30": 453,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -648,7 +649,7 @@
     "timeMonth": 2122,
     "timeYear": 2122,
     "dailyMinutesDown": {
-      "2026-08-30": 299,
+      "2026-08-30": 453,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
