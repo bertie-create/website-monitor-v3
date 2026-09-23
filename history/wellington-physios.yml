@@ -1,7 +1,7 @@
 url: https://wellingtonphysios.co.za/
-status: up
-code: 200
-responseTime: 6160
-lastUpdated: 2026-09-23T01:21:38.179Z
+status: down
+code: 500
+responseTime: 937
+lastUpdated: 2026-09-23T01:46:02.009Z
 startTime: 2026-08-12T07:55:20.370Z
 generator: Upptime <https://github.com/upptime/upptime>
